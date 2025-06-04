@@ -7,7 +7,7 @@ This repository outlines a collection of Python project ideas designed to help d
 ## 🟢 Beginner Projects
 **Goal**: Master syntax, logic, basic file handling, and small libraries.
 
-### Calculator App (CLI/GUI)  (./Beginner/calculator-app)
+### [Calculator App] (./Beginner/calculator-app) (CLI/GUI)  
 - **Description**: Build a simple calculator for basic arithmetic operations using the console or a GUI with `tkinter`.
 - **Skills Learned**: Functions, input validation, basic GUI development.
 
